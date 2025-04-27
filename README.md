@@ -1,4 +1,4 @@
-# Online-Food-Ordering-System-in-PHP
+#Local Vendor Ecommerce system
 
 Online Food Ordering System in PHP
 
